@@ -1,0 +1,20 @@
+.article{
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+p {
+    /* color: white; */
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.text1{
+    color: white;
+    font-size: 30px;
+}
+img{
+    display: flex;
+    border : 7px solid yellow
+}

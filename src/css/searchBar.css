@@ -1,0 +1,12 @@
+label{
+    color: white;
+}
+input{
+    margin-left: 5px;
+    border-radius: 3px;
+}
+input[type='submit']{
+    background-color: rgb(255, 221, 70);
+    color: white;
+    font-weight: bold;    
+}

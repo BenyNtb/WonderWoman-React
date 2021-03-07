@@ -1,0 +1,9 @@
+nav{
+    overflow: hidden;
+}
+.navLeft{
+    float:left;
+}
+.navRight{
+    float:right;
+}
